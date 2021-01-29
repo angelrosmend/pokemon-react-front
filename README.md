@@ -6,7 +6,7 @@
 ![](/public/img/screenshots/home.png)
 
  **DETALLE**
-![](/public/img/screenshots/detalle.png)
+![](/public/img/screenshots/detalle-front.png)
 
  **FAVORITOS**
 ![](/public/img/screenshots/favoritos.png)
