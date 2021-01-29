@@ -1,0 +1,23 @@
+
+.a-prev{
+    position: absolute;
+    top: 50%;
+    left: -5%;
+    color: rgba(248, 248, 248, 0.877);
+    font-size: 40px;
+    cursor: pointer;
+    z-index: 2;
+  }
+
+  .a-prev:hover, .a-next:hover{
+    color: rgba(141, 141, 141, 0.877);
+  }
+.a-next{
+    position: absolute;
+    top: 50%;
+    right: -5%;
+    color: rgba(248, 248, 248, 0.877);
+    font-size: 40px;
+    cursor: pointer;
+    z-index: 2;
+  }

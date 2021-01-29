@@ -1,0 +1,240 @@
+{
+    "habitat": [
+        {
+            "name": "cave",
+            "languages":[
+           {
+               "id": "es",
+               "name": "caverna",
+               "text": "hábitat"
+           },
+           {
+               "id": "en",
+               "name": "cave",
+               "text": "habitat"
+           },
+           {
+               "id": "de",
+               "name": "Höhle",
+               "text": "Lebensraum"
+           }
+          ]
+       },
+       {
+        "name": "forest",
+        "languages":[
+       {
+           "id": "es",
+           "name": "Bosque",
+           "text": "hábitat"
+       },
+       {
+           "id": "en",
+           "name": "Forest",
+           "text": "habitat"
+       },
+       {
+           "id": "de",
+           "name": "Wald",
+           "text": "Lebensraum"
+       }
+      ]
+   },
+   {
+    "name": "grassland",
+    "languages":[
+   {
+       "id": "es",
+       "name": "Pradera",
+       "text": "hábitat"
+   },
+   {
+       "id": "en",
+       "name": "Grassland",
+       "text": "habitat"
+   },
+   {
+       "id": "de",
+       "name": "Wiese",
+       "text": "Lebensraum"
+   }
+  ]
+},
+{
+    "name": "mountain",
+    "languages":[
+   {
+       "id": "es",
+       "name": "Montaña",
+       "text": "hábitat"
+   },
+   {
+       "id": "en",
+       "name": "Mountain",
+       "text": "habitat"
+   },
+   {
+       "id": "de",
+       "name": "Berg",
+       "text": "Lebensraum"
+   }
+  ]
+},
+{
+    "name": "rare",
+    "languages":[
+   {
+       "id": "es",
+       "name": "Raro",
+       "text": "hábitat"
+   },
+   {
+       "id": "en",
+       "name": "Rare",
+       "text": "habitat"
+   },
+   {
+       "id": "de",
+       "name": "Rar",
+       "text": "Lebensraum"
+   }
+  ]
+},
+{
+    "name": "rough-terrain",
+    "languages":[
+   {
+       "id": "es",
+       "name": "Terrenos rocosos",
+       "text": "hábitat"
+   },
+   {
+       "id": "en",
+       "name": "Rough-terrain",
+       "text": "habitat"
+   },
+   {
+       "id": "de",
+       "name": "unebenes Gebiet",
+       "text": "Lebensraum"
+   }
+  ]
+},
+{
+    "name": "sea",
+    "languages":[
+   {
+       "id": "es",
+       "name": "Mar",
+       "text": "hábitat"
+   },
+   {
+       "id": "en",
+       "name": "Rough-terrain",
+       "text": "habitat"
+   },
+   {
+       "id": "de",
+       "name": "Meer",
+       "text": "Lebensraum"
+   }
+  ]
+}, 
+{
+    "name": "urban",
+    "languages":[
+   {
+       "id": "es",
+       "name": "Ciudad",
+       "text": "hábitat"
+   },
+   {
+       "id": "en",
+       "name": "urban",
+       "text": "habitat"
+   },
+   {
+       "id": "de",
+       "name": "städtisch",
+       "text": "Lebensraum"
+   }
+  ]
+},
+{
+    "name": "waters-edge",
+    "languages":[
+   {
+       "id": "es",
+       "name": "Rios y arrollos",
+       "text": "hábitat"
+   },
+   {
+       "id": "en",
+       "name": "waters-edge",
+       "text": "habitat"
+   },
+   {
+       "id": "de",
+       "name": "Fluss",
+       "text": "Lebensraum"
+   }
+  ]
+}  
+  ]
+  ,
+  "height":[
+      {"id": "es", "name": "Altura"},
+      {"id": "en", "name": "Height"},
+      {"id": "de","name": "Höhe"}
+  ],
+  "weight": [
+    {"id": "es", "name": "Peso"},
+    {"id": "en", "name": "Weight"},
+    {"id": "de","name": "Gewicht"}
+  ],
+  "types": [],
+  "back":[
+    {"id": "es", "name": "Pagina anterior"},
+    {"id": "en", "name": "Previous page"},
+    {"id": "de","name": "vorherige Seite"}
+  ],
+  "next":[
+    {"id": "es", "name": "Pagina siguiente"},
+    {"id": "en", "name": "Next page"},
+    {"id": "de","name": "Nächste Seite"}
+  ],
+  "favorite":[
+    {"id": "es", "name": "Favoritos"},
+    {"id": "en", "name": "Favorites"},
+    {"id": "de","name": "Lieblings"}
+  ],
+  "idioma": [
+      {
+          "id": "es",
+          "lang": "Lenguaje",
+          "es": "Español",
+          "en": "Inglés",
+          "de": "Alemán"
+      },
+      {
+        "id": "en",
+        "lang":"Language",
+        "es": "Spanish",
+        "en": "English",
+        "de": "German"
+    },
+    {
+        "id": "de",
+        "lang":"Sprache",
+        "es": "Spanisch",
+        "en": "Englisch",
+        "de": "Deutsch"
+    }
+  ],
+  "empty":[
+    {"id": "es", "name": "Aun no has seleccionado a tus Pokemon favotitos"},
+    {"id": "en", "name": "You have not added any favorite Pokemon yet"},
+    {"id": "de","name": "Du hast dein Lieblingspokemon noch nicht ausgewählt"}
+  ]
+
+}

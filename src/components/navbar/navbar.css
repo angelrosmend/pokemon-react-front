@@ -1,0 +1,24 @@
+.logo{
+    width: 9vw;
+    margin-left: 3vw;
+}
+
+.shadow {
+    box-shadow: 3px 5px 5px 6px rgba(0, 0, 0, 0.986)!important;
+  }
+
+
+.nav-link{
+    color: rgb(175, 18, 39)!important;
+    font-weight: bold;
+    font-size: 2.5vh;
+    text-transform: uppercase;
+}
+.nav-link:hover{
+    color: rgb(160, 0, 21)!important;
+}
+@media only screen and (max-width: 600px) {
+    .logo{
+        width: 25vw;
+    }
+}

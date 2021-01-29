@@ -1,0 +1,61 @@
+.home{
+position: relative;
+width: 100%;
+min-height: 100vh;
+ display: flex;
+ background: var(--grdBlack);
+ flex-direction: column;
+}
+
+.back{
+position: absolute;
+background: var(--mainRed);
+width: 45%;
+height: 25vh;
+top: 0;
+left: 0;
+clip-path: polygon(0 0,100% 0,100% 0%,0 100%);
+}
+
+.next{
+background: var(--mainRed);
+width: 45%;
+height: 25vh;
+position: absolute;
+bottom: 0;
+right: 0;
+clip-path: polygon(100% 100%,100% 0,100% 0%,0 100%);
+}
+
+
+.go-back{
+    position: absolute;
+    color: white!important;
+    top: 0;
+    left: 0;
+    margin-bottom: 5vh;
+}
+.go-next{
+    color: white!important;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    margin-top: 10vh;
+}
+.go-next:hover, .go-back:hover{
+    color: rgb(172, 172, 172)!important;
+}
+
+@media only screen and (max-width: 600px) {
+    .go-back{
+        margin-left: -3vw;
+        font-size: 0.7rem!important;
+        margin-top: auto;
+    }
+    .go-next{
+        margin-right: -5vw;
+        font-size: 0.7rem!important;
+        margin-bottom: auto;
+    }
+
+}
