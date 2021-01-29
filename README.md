@@ -2,13 +2,13 @@
 2. **npm start**
 
 
-3. **HOME**
+ **HOME**
 ![](/public/img/screenshots/home.png)
 
-3. **DETALLE**
+ **DETALLE**
 ![](/public/img/screenshots/detalle.png)
 
-3. **FAVORITOS**
+ **FAVORITOS**
 ![](/public/img/screenshots/favoritos.png)
 
 
