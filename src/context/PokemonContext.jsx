@@ -14,6 +14,7 @@ export const PokemonContextProvider = (props) => {
     const selectEs = () => setLanguage(español)
     const selectDe = () => setLanguage(deutsch)
     const text = textLang
+    
 
     /*CONFIG FETCH Y PAGINADO*/
     const pokemonUrl = `${process.env.REACT_APP_BASE_URL}pokemon?limit=10&offset=0`
